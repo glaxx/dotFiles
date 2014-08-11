@@ -13,8 +13,7 @@
     "swallows": [
        {
         "class": "^URxvt$",
-        "instance": "^urxvt$",
-       // "title": "^htop$"
+        "instance": "^urxvt$"
        }
     ],
     "type": "con"
@@ -42,8 +41,7 @@
             "swallows": [
                {
                 "class": "^URxvt$",
-                "instance": "^urxvt$",
-               // "title": "^glaxx\\@petrichor\\:\\ \\~\\/dokumente\\/Projekte\\/beehive$"
+                "instance": "^urxvt$"
                }
             ],
             "type": "con"
@@ -62,8 +60,7 @@
             "swallows": [
                {
                 "class": "^URxvt$",
-                "instance": "^urxvt$",
-               // "title": "^glaxx\\@petrichor\\:\\ \\~\\/dokumente\\/Projekte\\/beehive\\/bees\\/cronbee$"
+                "instance": "^urxvt$"
                }
             ],
             "type": "con"
