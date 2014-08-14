@@ -9,6 +9,8 @@ call vundle#begin()
 "
 " " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
+Plugin 'fatih/vim-go'
+Plugin 'The-NERD-tree'
 Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 call vundle#end()            " required
 filetype plugin indent on    " required
