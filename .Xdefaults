@@ -20,7 +20,7 @@ URxvt.scrollBar: false
 URxvt.foreground: white
 URxvt.background: black
 URxvt.secondaryScroll: true
-URxvt.font: xft:Dejavu Sans Mono:pixelsize=11
+URxvt.font: xft:Inconsolata for Powerline:pixelsize=12:style=Regular
 URxvt.perl-ext-common: default,matcher
 URxvt.urlLauncher: x-www-browser
 URxvt.matcher.button: 1
